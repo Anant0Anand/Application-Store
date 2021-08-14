@@ -1,0 +1,33 @@
+.box
+{
+max-width: 2000px;  
+  width: 100%;  
+  margin: 150px;  
+  height: auto;  
+  display: block;  
+}  
+  
+body {  
+  color: #201F16;  
+  font-size: 20px;  
+  font-family: Verdana, Arial, Helvetica, monospace;  
+  background-color: #F0E8A0;  
+}  
+  
+h3 {  
+  text-align: center;  
+}  
+  
+.form_group {  
+  padding: 20px;  
+  ;    
+display: block;  
+}  
+  
+label {  
+  float: left;  
+  padding-right: 10px;  
+  line-height: 20%;  
+  display: block;  
+  width: 200px;
+}
